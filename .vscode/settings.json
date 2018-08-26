@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/fab/bin/python"
+}
